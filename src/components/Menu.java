@@ -1,9 +1,8 @@
-package src;
+package src.components;
 
 import javax.swing.*;
 
 public class Menu {
-
     private final JMenuBar menuBar;
 
     public Menu(JFrame frame) {

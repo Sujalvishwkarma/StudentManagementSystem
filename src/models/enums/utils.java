@@ -1,0 +1,8 @@
+package src.models.enums;
+
+enum Days {
+    SUNDAY , MONDAY, TUESDAY , WEDNSDAY , THURSDAY , FRIDAY , SATURDAY 
+}
+enum Months {
+    JANUARY , FEBRUARY , MARCH , APRIL , MAY , JUNE , JULY , AUGUST , SEPTEMBER , OCTOBER , NOVEMBER , DECEMBER
+}
